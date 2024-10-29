@@ -1,6 +1,6 @@
 # SolarEclipse Theme
 
-SolarEclipse is a Visual Studio Code theme inspired by this [Panic Nova theme](https://github.com/aaff-se/nova-solareclipse-theme).
+SolarEclipse is a Visual Studio Code theme made by [Vincent Rijnbeek](https://github.com/rijnbeek) and inspired by this [Panic Nova theme](https://github.com/aaff-se/nova-solareclipse-theme).
 
 ## Installation
 
