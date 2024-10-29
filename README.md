@@ -1,16 +1,37 @@
-# solarclipse README
+# SolarEclipse Theme
 
-## Working with Markdown
+SolarEclipse is a Visual Studio Code theme inspired by this [Panic Nova theme](https://github.com/aaff-se/nova-solareclipse-theme).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+To install this theme:
 
-## For more information
+1. Clone or download this repository.
+2. Open Visual Studio Code.
+3. Go to `Extensions` > `Install from VSIX...`.
+4. Select the downloaded `.vsix` file to install the theme.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Usage
 
-**Enjoy!**
+After installation, enable the theme by:
+
+1. Going to `Preferences` > `Color Theme`.
+2. Selecting **SolarEclipse** from the list of available themes.
+
+## Contributing
+
+If you would like to contribute to SolarEclipse:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`.
+3. Make your changes and commit: `git commit -m 'Add your feature here'`.
+4. Push to the branch: `git push origin feature/your-feature-name`.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Thanks to [aaff-se](https://github.com/aaff-se/nova-solareclipse-theme) for the original Panic Nova theme inspiration.
