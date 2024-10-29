@@ -19,7 +19,7 @@
     "color theme"
   ],
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.93.0"
   },
   "categories": [
     "Themes"
